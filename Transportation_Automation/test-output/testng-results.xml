@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3158" started-at="2020-08-18T06:43:06Z" finished-at="2020-08-18T06:43:09Z">
+  <suite name="Default suite" duration-ms="16738" started-at="2021-09-22T07:24:14Z" finished-at="2021-09-22T07:24:30Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3158" started-at="2020-08-18T06:43:06Z" finished-at="2020-08-18T06:43:09Z">
-      <class name="testpoi.Test_GET_POI">
-        <test-method status="PASS" signature="get_POI()[pri:0, instance:testpoi.Test_GET_POI@604ed9f0]" name="get_POI" duration-ms="3134" started-at="2020-08-18T12:13:06Z" finished-at="2020-08-18T12:13:09Z">
+    <test name="Default test" duration-ms="16738" started-at="2021-09-22T07:24:14Z" finished-at="2021-09-22T07:24:30Z">
+      <class name="utility.TestClass">
+        <test-method status="PASS" signature="createMultiplePings()[pri:0, instance:utility.TestClass@3498ed]" name="createMultiplePings" duration-ms="16711" started-at="2021-09-22T12:54:14Z" finished-at="2021-09-22T12:54:30Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- get_POI -->
-      </class> <!-- testpoi.Test_GET_POI -->
+        </test-method> <!-- createMultiplePings -->
+      </class> <!-- utility.TestClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
